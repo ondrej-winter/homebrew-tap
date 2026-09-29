@@ -1,8 +1,8 @@
 cask "calrelay" do
-  version "1.1.1"
-  sha256 "234c1d6a1c99a5ddcf90c209e5c39b33c698ec9c56e50dd78808cfcd8f1cb43f"
+  version "1.2.0"
+  sha256 "5a67f0d9121274ebaf9bc78ea470c73be514e44aed2498772e42daff3d453ad0"
 
-  url "https://github.com/ondrej-winter/calrelay/releases/download/v1.1.1/CalRelay-1.1.1-arm64.zip"
+  url "https://github.com/ondrej-winter/calrelay/releases/download/v1.2.0/CalRelay-1.2.0-arm64.zip"
   name "CalRelay"
   desc "Relay availability blockers between calendars"
   homepage "https://github.com/ondrej-winter/calrelay"
