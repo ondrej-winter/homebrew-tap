@@ -3,9 +3,9 @@
 class Calrelay < Formula
   desc "Relay availability blockers between calendars"
   homepage "https://github.com/ondrej-winter/calrelay"
-  url "https://github.com/ondrej-winter/calrelay/releases/download/v1.2.0/calrelay-1.2.0-arm64.tar.gz"
-  version "1.2.0"
-  sha256 "44bfd0f5bbd9c8817a11888c9160c82a83e7479ddfbf32734a731a978f0fbeb6"
+  url "https://github.com/ondrej-winter/calrelay/releases/download/v1.3.0/calrelay-1.3.0-arm64.tar.gz"
+  version "1.3.0"
+  sha256 "455b6df40916a58fc2069d0639cecbe4eb5f73099d725ffbf4a77f6279e6adb6"
   license "MIT"
 
   livecheck do
